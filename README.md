@@ -58,5 +58,6 @@ The bank wants to create more value out of its customer data. Analyze the data a
 
 ## Results
 - **Accuracy**: 89%
+- **Best Fitted Model:** Random Forest
 - **AUC-ROC Score**: 95%
 - Significantly improved the bank’s ability to identify at-risk customers.
