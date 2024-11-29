@@ -15,6 +15,10 @@ The bank wants to create more value out of its customer data. Analyze the data a
   - Logistic Regression
   - Random Forest
   - XGBoost
+  - SVM
+  - Decision Tree
+  - KNN
+  - Gradient Boosting Classifier
 - Dashboard visualization with Power BI.
 
 ## Technologies Used
