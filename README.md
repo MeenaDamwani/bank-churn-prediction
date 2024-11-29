@@ -1,10 +1,10 @@
 # Bank Churn Prediction Using Machine Learning 
 
-##Overview
+## Overview
 
 This project aims to predict customer churn for a bank using machine learning techniques. By identifying at-risk customers, the bank can improve retention strategies and enhance customer satisfaction.
 
-##Problem statement
+## Problem statement
 
 The bank wants to create more value out of its customer data. Analyze the data and propose how internal and external utilization of the analysis results increases the banks revenues.
 
