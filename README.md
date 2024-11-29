@@ -31,6 +31,10 @@ The bank wants to create more value out of its customer data. Analyze the data a
   - Power BI for dashboards
   - Google Colab for development
 
+## Data Source
+- The dataset used for this project is **Churn_Modelling.csv** from [Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)).
+- Contains customer demographic, account, and transaction information.
+
 ## Data Description
 
 **RowNumber:** Row number for the row in the data table.
