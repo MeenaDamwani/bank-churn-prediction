@@ -26,6 +26,23 @@ The bank wants to create more value out of its customer data. Analyze the data a
   - Power BI for dashboards
   - Google Colab for development
 
+## Data Description
+
+**RowNumber:** Row number for the row in the data table.
+**CustomerId:** Unique Identification number of the customer.
+**Surname:** Surname (Lastname) of the customer.
+**CreditScore:** Credit Score of the customer.
+**Geography:** Geographical location (country) of the customer.
+**Gender:** Gender of the customer (Male / Female).
+**Age:** Age of the customer.
+**Tenure:** Number of years the customers has been associated with the bank.
+**Balance:** The amount of balance in the customer's account.
+**NumOfProducts:** The number of product.
+**HasCrCard:** Denotes if the customer owns a credit card with the bank.
+**IsActiveMember:** Denotes if the customer is active with the bank.
+**EstimatedSalary:** Estimated salary of the customer.
+**Exited:** Denotes if the customer has churned (exited) from the bank or not.
+
 ## Results
 - **Accuracy**: 89%
 - **AUC-ROC Score**: 95%
