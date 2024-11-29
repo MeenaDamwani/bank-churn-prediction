@@ -19,6 +19,7 @@ The bank wants to create more value out of its customer data. Analyze the data a
   - Decision Tree
   - KNN
   - Gradient Boosting Classifier
+- Model Evaluation Using accuracy and AUC-ROC metrics.
 - Dashboard visualization with Power BI.
 
 ## Technologies Used
